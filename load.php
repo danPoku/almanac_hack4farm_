@@ -66,6 +66,7 @@ function frontlinesms(){
 $url = "http://api.openweathermap.org/data/2.5/forecast/daily?q={$location}&mode=xml&units=metric&cnt=7&APPID=YOUR_API_SECRET_ID_HERE";
 
 
+
 /**
 *@var string $xml Reads array into string
 *@var integer $rand Radomly generated number appended to a filename 
